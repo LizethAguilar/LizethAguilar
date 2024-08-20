@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LizethAguilar
-- 👀 I’m interested in ...Program
+- 👀 I’m interested in ...Programming codes
 - 🌱 I’m currently learning ...To be programmed
 - 💞️ I’m looking to collaborate on ...a project
 - 📫 How to reach me ...Social networks
